@@ -1,0 +1,10 @@
+.both{
+    background-color: white !important;
+    color:  rgb(121, 193, 216) !important;
+    border: 2px solid rgb(121, 193, 216)!important;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: 20px;
+    
+}

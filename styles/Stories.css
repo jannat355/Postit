@@ -1,0 +1,27 @@
+.ban{
+    position: relative;
+}
+.ban img{
+    
+
+        height: auto;
+      
+}
+
+.banner{
+    position: absolute;
+    top: 25%;
+    padding: 20px;
+    margin-left: 10rem;
+      margin-top: 6rem;
+      
+    
+}
+
+.banner-img{
+    position: absolute;
+    top:25%;
+    padding: 20px;
+    margin-left: 55rem;
+    margin-bottom: 10rem;
+}
